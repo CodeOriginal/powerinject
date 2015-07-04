@@ -1,0 +1,13 @@
+Package: al.codeorigin.powerinject
+Name: PowerInject
+Description: A simple MobileSubstrate tweak!
+ And here's a second line. 
+Version: 0.1.0
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: CodeOriginal
+Author: CodeOriginal
+Homepage: http://codeoriginal.github.io
+Depiction: http://codeorigunal.github.io/depict/al.codeorigin.powerinject.html
